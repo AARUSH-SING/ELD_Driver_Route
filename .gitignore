@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+.venv/
+
+# Node (but DO commit frontend/dist for deployment)
+node_modules/
+/dist
+
+# IDE
+.vscode/
+*.log
